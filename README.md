@@ -19,15 +19,15 @@ Eman AI is an AI-powered Islamic learning application designed around a conversa
 
 ## 🛠️ Technologies
 
-- HTML
-- CSS
-- JavaScript
-- Firebase
+- Frontend web technologies
+- Firebase hosting
 - AI API integration
+
+> The exact implementation stack should be treated as project-level documentation until the application source is added to this repository.
 
 ## 📸 Screenshots
 
-The repository includes screenshots showing the main login, home, chat, duas, Quran/guidance, and additional UI experiences.
+The live application contains the login, home, chat, duas, Quran/guidance, and additional UI experiences. The current GitHub repository is being used as project documentation; the application source is not currently stored on this branch.
 
 ## 👨‍💻 Developer
 
